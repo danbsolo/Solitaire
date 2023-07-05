@@ -1,2 +1,4 @@
 # Solitaire
-Just a small, little project for now.
+If using slitherySolitaire.py, ensure Python Arcade is installed.
+
+The exe is NOT signed.
